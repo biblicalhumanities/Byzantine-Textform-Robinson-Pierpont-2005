@@ -1,15 +1,22 @@
 # Byzantine Textform Robinson-Pierpont 2005
 
 Byzantine Textform Greek New Testament (2005 edition, updated) edited
-by Robinson and Pierpont.
+by Robinson and Pierpont.  
 
 The text and its analysis are in the Public Domain.
 
 The text is the one edited by Maurice A. Robinson and William
-G. Pierpont, 2005 edition.
+G. Pierpont, 2005 edition.  A PDF reader's edition can be found here:
+
+http://www.streitenberger.info/RP2016%20Reader%27s%20Edition-18%20Feb%202016%20update.pdf
+
+An e-sword module of this can be found here:
+
+http://www.biblesupport.com/e-sword-downloads/file/10913-the-new-testament-in-the-original-greek-byzantine-textform-20052010-with-dialects-accents-etc/
 
 The analysis is created and edited by Maurice A. Robinson, and is also
-from August 2013.
+from August 2013.  
+
 
 The union of these two has been produced programmatically by Ulrik
 Sandborg-Petersen of Scripture Systems ApS, Denmark.
